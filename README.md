@@ -6,12 +6,12 @@ Install it:
 
 Build it:
 
-    npm run build
+    npx tsc
 
 Run it:
 
-    npm run run
+    node src/index.ts
 
 Test it:
 
-    npm run test
+    npx jest
