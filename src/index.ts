@@ -1,4 +1,4 @@
-import { RuleOfThree } from "./rule-of-three";
+import { RuleOfThree } from "./rule-of-three.js";
 
 const potatoRule = new RuleOfThree(3.5, 12);
 const potatoPrice20 = potatoRule.calculateFor(20);
