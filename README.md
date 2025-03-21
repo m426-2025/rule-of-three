@@ -10,7 +10,7 @@ Build it:
 
 Run it:
 
-    node src/index.ts
+    node dist/index.js
 
 Test it:
 
